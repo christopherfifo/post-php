@@ -1,6 +1,5 @@
 .contencao{
     margin: auto;
-    margin-top: 7rem;
 }
 
 .title-cartao{
@@ -18,3 +17,33 @@
     background-image: url(../pictures/fundo.gif);
     background-size: cover;
 }
+
+    /* Estilos para aumentar o tamanho da letra, o espaçamento e o tamanho do cartão */
+    .lead {
+        font-size: 1.5rem; /* Aumenta o tamanho do nome */
+      }
+      
+      .text-white {
+        font-size: 1.2rem; /* Aumenta o tamanho das informações */
+      }
+  
+      .fa-ul li {
+        margin-bottom: 15px; /* Aumenta o espaçamento entre as linhas */
+      }
+  
+      .card {
+        height: auto; /* Permite que o cartão aumente conforme o conteúdo */
+        padding: 20px; /* Adiciona espaçamento interno ao cartão */
+        font-size: 1.1rem; /* Aumenta o tamanho do texto em geral */
+      }
+  
+      /* Aumenta o tamanho da div do cartão */
+      .card-body {
+        padding: 20px;
+      }
+  
+      /* Ajusta o tamanho da imagem do perfil */
+      .img-circle {
+        width: 150px; /* Aumenta o tamanho da imagem do perfil */
+        height: 150px;
+      }

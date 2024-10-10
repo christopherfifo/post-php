@@ -73,6 +73,10 @@
                                 <label for="cep">CEP</label>
                                 <input type="text" class="form-control" id="cep" name="cep" placeholder="Digite seu CEP" required>
                             </div>
+                            <div class="form-group">
+                                <label for="url_perfil">URL do Perfil</label>
+                                <input type="url" class="form-control" id="url_perfil" name="url_perfil" placeholder="Digite a URL do seu perfil">
+                            </div>
                         </div>
                         <!-- /.card-body -->
 
