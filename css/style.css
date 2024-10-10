@@ -1,0 +1,20 @@
+.contencao{
+    margin: auto;
+    margin-top: 7rem;
+}
+
+.title-cartao{
+    background-color:pink;
+}
+
+.tudo{
+    width: 100%;
+    height: 100dvh;
+    display: flex;
+}
+
+.sla{
+    overflow: hidden;
+    background-image: url(../pictures/fundo.gif);
+    background-size: cover;
+}
