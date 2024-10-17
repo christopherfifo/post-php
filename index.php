@@ -27,7 +27,7 @@
                     </div>
                     <!-- /.card-header -->
                     <!-- form start -->
-                    <form action="./pages/cadastro.php" method="POST">
+                    <form action="./pages/cadastro2.php" method="POST">
                         <div class="card-body">
                             <div class="form-group">
                                 <label for="nome">Nome</label>
